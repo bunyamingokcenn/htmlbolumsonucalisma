@@ -1,2 +1,2 @@
 #Html
-Patika Dev html bölüm sonu çalışması
+Patika Dev html bölüm sonu çalışması.
